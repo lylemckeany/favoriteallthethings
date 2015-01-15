@@ -57,3 +57,4 @@ target/
 
 # Added by Lyle:
 favoriteallthethings/
+.env
